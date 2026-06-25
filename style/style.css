@@ -498,6 +498,16 @@ html {
   pointer-events: none;
 }
 
+.position-button{position: absolute;
+  top: 15px;
+  left: 19px;
+  z-index: 2;
+}
+
+.music-button{
+  position: relative;
+}
+
 @media (width<390px) {
   .time-img {
     max-width: 412px;
