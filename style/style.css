@@ -638,7 +638,7 @@ html {
   left: 0;
   width: 100%;
   z-index: 1; /* Меньше, чем у convert-wrapper (который z-index: 2) */
-  opacity: 0;
+  opacity: 0.5;
   transition: opacity 0.2s ease;
   pointer-events: none;
   text-align: center;
