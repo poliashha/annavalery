@@ -304,6 +304,7 @@ html {
   background-color: transparent;
   border: 1px solid var(--color-text-brown);
   font-size: 18px;
+  font-weight: 400;
 }
 
 .button.touch-pressed {
