@@ -494,7 +494,9 @@ html {
   font-size: 48px;
 }
 
-
+.music{
+  pointer-events: none;
+}
 
 @media (width<390px) {
   .time-img {
